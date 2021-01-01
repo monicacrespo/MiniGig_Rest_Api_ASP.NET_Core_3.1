@@ -1,0 +1,1 @@
+# MiniGig_Rest_Api_ASP.NET_Core_3.1
