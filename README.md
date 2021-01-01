@@ -8,11 +8,11 @@ The code illustrates the following topics:
 * Testing API using POSTMAN
 
 # Getting Started to use Postman
-Install Postman and Import Request Collection
-Open Postman.
-Click Import, click Choose Files and specify NetCoreWebApiMiniGig.postman_collection.json. ...
-Click on the settings icon in the top-right corner of the Postman interface next to the Eye icon to import an Environment.
-Next, click on the Import button at the bottom of the Manage Environments screen and choose the localhost.postman_environment.json file
+* Install Postman and Import Request Collection
+* Open Postman.
+* Click Import, click Choose Files and specify NetCoreWebApiMiniGig.postman_collection.json. ...
+* Click on the settings icon in the top-right corner of the Postman interface next to the Eye icon to import an Environment.
+* Next, click on the Import button at the bottom of the Manage Environments screen and choose the localhost.postman_environment.json file
 
 
 # Getting Started
