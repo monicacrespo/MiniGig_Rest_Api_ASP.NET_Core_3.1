@@ -1,5 +1,5 @@
 # Mini Gig RESTFul API Service
-MiniGigApi is a ASP.NET Core Web application created in Visual Studio 2019 Professional, ASP.NET Core 3.1, Entity Framework Core 3.1 and c#.
+The MiniGig web API application demonstrates how to create ASP.NET Core 3.1 web applications in C# using Entity Framework (EF) Core 3.1 and Visual Studio 2019.
 
 The code illustrates the following topics:
 * Implementation of a RESTful service using ASP.NET Core 3.1
