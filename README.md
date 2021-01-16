@@ -1,6 +1,8 @@
 # Mini Gig RESTFul API Service
 The MiniGig web API application demonstrates how to create ASP.NET Core 3.1 web applications in C# using Entity Framework (EF) Core 3.1 and Visual Studio 2019.
 
+The motivation is to create a simple CRUD ASP.NET Core app using EF Core as the database ORM with SQL Server as a backend to persist the gigs.
+
 The code illustrates the following topics:
 * Implementation of a RESTful service using ASP.NET Core 3.1
 * Encapsulation of Entity Framework Core 3.1 using GenericRepository for CRUD operations
